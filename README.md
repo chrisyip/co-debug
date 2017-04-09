@@ -1,6 +1,6 @@
 # co-debug
 
-[![node](https://img.shields.io/node/v/gh-badges.svg)]() [![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Travis CI][travis-image]][travis-url] [![codecov][codecov-image]][codecov-url]
+[![node](https://img.shields.io/node/v/co-debug.svg)](https://github.com/chrisyip/co-debug) [![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Travis CI][travis-image]][travis-url] [![codecov][codecov-image]][codecov-url]
 
 Better debug information for co.
 
