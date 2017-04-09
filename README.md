@@ -37,7 +37,7 @@ You may need to install `co` by yourself.
 node -r co-debug
 ```
 
-Or add `require('co-debug')` to your main file and make sure load it before other packages:
+Or add `require('co-debug')` to your main file and make sure it's loaded before other packages:
 
 ```js
 require('co-debug')
